@@ -45,12 +45,15 @@ export const ProductInfo = styled.div`
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: 2rem;
+    //padding: 2rem;
     text-align: center;
+    //height: 550px;
 `;
 
 export const ProductDec = styled.p`
     margin-bottom: 1rem;
+    display: grid;
+    grid-template-rows: 40px 40px;
 `;
 
 export const ProductPrice = styled.p`
