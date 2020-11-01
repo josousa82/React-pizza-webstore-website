@@ -5,6 +5,7 @@ import Hero from "./components/Hero";
 import {Products} from "./components/Products";
 import {pizzaProductData, desertProductData} from "./components/Products/data";
 import {Feature} from "./components/Feature";
+import {Footer} from "./components/Footer";
 
 
 function App() {
@@ -15,6 +16,7 @@ function App() {
         <Products heading="Choose your Favorite" dataFeed={pizzaProductData}/>
         <Feature />
         <Products heading= "Sweet Treats For You" dataFeed={desertProductData}/>
+        <Footer />
     </Router>
   );
 }
