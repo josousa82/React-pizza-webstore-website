@@ -5,11 +5,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### Build Status
 
 #### Code Quality
+
 * [![Codacy Badge](https://app.codacy.com/project/badge/Grade/0191557ca6ab4373aa080de4acf18653)](https://www.codacy.com/gh/josousa82/React-pizza-webstore-website/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=josousa82/React-pizza-webstore-website&amp;utm_campaign=Badge_Grade)
   
 #### TravisCI
-* [![Build Status](https://travis-ci.com/josousa82/React-pizza-webstore-website.svg?branch=master)](https://travis-ci.com/josousa82/React-pizza-webstore-website) 
 
+* [![Build Status](https://travis-ci.com/josousa82/React-pizza-webstore-website.svg?branch=master)](https://travis-ci.com/josousa82/React-pizza-webstore-website)
 
 ## Getting Started
 
